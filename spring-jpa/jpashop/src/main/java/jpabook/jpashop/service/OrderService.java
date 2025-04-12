@@ -53,9 +53,9 @@ public class OrderService {
         Order order = orderRepository.findOrder(orderId);
         order.cancel();
 
+    }
 //        // 주문 검색
 //        public List<Order> findOrders(OrderSearch orderSearch) {
 //            return orderRepository.findAll(orderSearch);
 //        }
-    }
 }
