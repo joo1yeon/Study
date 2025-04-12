@@ -15,19 +15,19 @@
 
 |메인 페이지|
 |:---:|
-|<img src="./readme_asset/메인페이지.PNG" width="50%">|
+|<img src="./readme_asset/메인페이지.png" width="50%">|
 
 |회원 가입|회원 목록|
 |:---:|:---:|
-|<img src="./readme_asset/회원 가입.PNG" width="50%">|<img src="./readme_asset/회원 목록.PNG" width="50%">|
+|<img src="./readme_asset/회원 가입.png" width="50%">|<img src="./readme_asset/회원 목록.png" width="50%">|
 
 |상품 등록|상품 목록|
 |:---:|:---:|
-|<img src="./readme_asset/상품 등록.PNG" width="50%">|<img src="./readme_asset/상품 목록.PNG" width="50%">|
+|<img src="./readme_asset/상품 등록.png" width="50%">|<img src="./readme_asset/상품 목록.png" width="50%">|
 
 |상품 주문|주문 내역|
 |:---:|:---:|
-|<img src="./readme_asset/상품 주문.PNG" width="50%">|<img src="./readme_asset/주문 내역.PNG" width="50%">|
+|<img src="./readme_asset/상품 주문.png" width="50%">|<img src="./readme_asset/주문 내역.png" width="50%">|
 
 ### 💡 알게된 것
 
